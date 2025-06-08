@@ -51,4 +51,4 @@ Pull requests welcome! Please open issues or ideas as discussions before impleme
 
 ## 💬 Questions?
 
-Feel free to open an issue or reach out at [your-email@example.com].
+Feel free to open an issue or reach out at [josiah.o@gmail.com].

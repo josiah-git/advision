@@ -1,3 +1,5 @@
+[![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
+
 # ADvision (Patch & Dependency Risk Intelligence)
 
 ADvision is a cross-platform, agent-based patch risk and dependency intelligence platform built to:
